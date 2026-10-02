@@ -2,6 +2,6 @@
 string1 = ""
 
 # Team member 2: set string2 to "World"
-string2 = ""
+string2 = "World"
 
 print (string1 + " " + string2)
